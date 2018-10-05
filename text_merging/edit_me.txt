@@ -7,3 +7,7 @@ Good night!
 Let us test a merge. Changing a single line.
 
 This is a very very full classroom.
+
+Let us test a merge
+
+Data analysis is fun!
